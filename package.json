@@ -1,6 +1,6 @@
 {
-	"name": "pages",
-	"version": "0.0.1",
+	"name": "recoreon",
+	"version": "1.0",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
